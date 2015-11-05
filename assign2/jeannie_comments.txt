@@ -1,0 +1,27 @@
+Sounds like you have already decided the shape and form of the app
+before you started the needfinding and requirements phase. The
+elicitation and other methods seem to already be influenced by that.
+The solution should not be given before fully understanding
+the problem via the elicitation methods.
+
+I think it's framed wrongly, as you're trying to understand the 
+existing methods and systems before giving your solution.
+The statement "observe the users’ behavior when they are operating the
+current system (a.k.a. our ‘​ prototype​)" isn't quite correct.
+
+The task analysis seems to be very UI centric based on other applications
+rather than the actual task and trying to find the problem.
+
+You need to analyze the results of the elictiation to arrive at the 
+user needs. Right now the user needs are not tied to the results
+of the elictiation. The questionnaire results are not summarized.
+
+Right now there's no proper summary of results 
+to justify why you have these implications.  
+
+Otherwise the appendix and work done is very comprehensive including
+the questions and analysis of the survey. It is better to summarize 
+the results of the survey in the main document.
+Attach the survey form copy in the appendix.
+
+Tentative Grade: B
