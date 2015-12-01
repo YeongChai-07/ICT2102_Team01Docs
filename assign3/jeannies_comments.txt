@@ -1,0 +1,13 @@
+
+Good idea to include the idea graph. Perhaps need to describe
+how you arrived at the final choice using the idea graph. 
+
+Need to tie the design idea justifications to the
+earlier components of the needfinding. The results
+of your needfinding need to support what you 
+are doing in this section.
+
+Need to label the paper prototypes and indicate which
+ones relate to which ideas. 
+
+Tentative Grade: B

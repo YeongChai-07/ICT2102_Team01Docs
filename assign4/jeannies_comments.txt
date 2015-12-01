@@ -1,0 +1,18 @@
+Need to elaborate with some goals and introduction on
+how you went about the heuristic evaluation.
+
+Heuristic evaluation list can be made better by summarizing 
+what are the most severe items compared to the others 
+(for example, prioritization or sorted list of severity)
+Or some kind of graph with prioritized heuristics
+and also what has been chosen to fix, and what you are ignoring
+and not fixing (hopefully not that many not fixing?)
+
+Also recommend to include the final fixed prototypes and some description
+and illustration on what you fixed. 
+
+Good reflective summary. 
+
+Some of the stuff in the appendix needs to come up in the report.
+
+Tentative Grade: B
